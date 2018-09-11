@@ -1,0 +1,4 @@
+[Project]
+Name=learnCmake
+Manager=KDevCMakeManager
+VersionControl=kdevgit
