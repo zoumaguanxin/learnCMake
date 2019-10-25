@@ -1,0 +1,7 @@
+#ifndef _VERSION_H_
+#define _VERSION_H_
+
+
+@ICPASZ@#define ICPASZ
+
+#endif _VERSION_H_
